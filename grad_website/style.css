@@ -126,7 +126,6 @@ body{
     margin: 9.25% 26.04% auto;
 }
 .columns{
-
 /* width: 60%; */
 margin-top: 10% ;
 
@@ -134,9 +133,9 @@ margin-top: 10% ;
 -moz-column-count: 2; /* Firefox */
 column-count: 2;
 
--webkit-column-width: 300px; /* Chrome, Safari, Opera */
+-webkit-column-width: 100px; /* Chrome, Safari, Opera */
 -moz-column-width: 100px; /* Firefox */
-column-width: 300px;
+column-width: 100px;
 }
 
 .main-container {
