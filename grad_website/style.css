@@ -97,11 +97,19 @@
 
 h2{
     font-family: 'Pacifico', cursive;
+		font-size: 25px;
 }
 
 h3{
     font-family: 'Tinos', serif;
     font-weight: bold;
+		font-size: 25px;
+}
+
+h4{
+	font-family: 'Tinos', serif;
+	font-weight: bold;
+	font-size: 18px;
 }
 
 body{
